@@ -410,21 +410,21 @@ img.man-icons {
   width: 70%;
 }
 .skills-js {
-  width: 85%;
+  width: 60%;
 }
 .skills-react,
 .skills-mongo {
-  width: 80%;
+  width: 85%;
 }
 .skills-redux {
   width: 90%;
 }
 .skills-mui,
 .skills-sql {
-  width: 65%;
+  width: 70%;
 }
 .skills-ts {
-  width: 70%;
+  width: 100%;
 }
 .skills-express,
 .skills-node {
@@ -653,7 +653,7 @@ img.man-icons {
   padding: 15px;
 }
 .testimonial{
-  background: #fff;
+  background: whitesmoke;
   padding: 30px;
 }
 .testimonial img{
